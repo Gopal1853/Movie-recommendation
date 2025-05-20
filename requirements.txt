@@ -1,0 +1,7 @@
+pandas
+numpy
+scikit-learn
+gradio
+joblib
+sentence-transformers
+requests 
