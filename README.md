@@ -9,7 +9,7 @@ This is a lightweight content-based movie recommendation system using TF-IDF on 
 - **Input**: A movie title (e.g. `"The Dark Knight"`)
 - **Vectorizer**: `TfidfVectorizer(ngram_range=(1, 2))` on cleaned titles
 - **Similarity**: Cosine similarity with other titles
-- **Output**: Top 5 most similar movies
+- **Output**: Top 10 most similar movies
 
 ---
 
